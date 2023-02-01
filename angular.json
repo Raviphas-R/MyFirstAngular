@@ -24,7 +24,7 @@
               {
                 "glob": "_redirects",
                 "input": "src",
-                "output": "/"
+                "output": "/auth"
               }
             ],
             "styles": [
